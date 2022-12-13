@@ -6,4 +6,3 @@ dependencies:
   - moto
   - boto
   - pytest
-
